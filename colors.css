@@ -1,0 +1,13 @@
+:root {
+  --color-rose-1: oklch(96% 0.01406 359.8);
+  --color-rose-2: oklch(87.9% 0.05394 359.8);
+  --color-rose-3: oklch(79.801% 0.1116 359.8);
+  --color-rose-4: oklch(71.701% 0.19259 359.8);
+  --color-rose-5: oklch(64.2% 0.252 360);
+  --color-rose-6: oklch(55.5% 0.2023 359.8);
+  --color-rose-7: oklch(47.399% 0.16047 359.8);
+  --color-rose-8: oklch(39.299% 0.1217 359.8);
+  --color-rose-9: oklch(31.199% 0.08801 359.8);
+  --color-rose-10: oklch(23.1% 0.0592 359.8);
+  --color-rose-11: oklch(15% 0.03398 359.8);
+}
